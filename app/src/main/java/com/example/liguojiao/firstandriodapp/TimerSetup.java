@@ -1,7 +1,10 @@
 package com.example.liguojiao.firstandriodapp;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.MenuItem;
+
 
 public class TimerSetup extends AppCompatActivity {
 
@@ -10,4 +13,5 @@ public class TimerSetup extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_timer_setup);
     }
+
 }
