@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.liguojiao.firstandriodapp.TimerSetup"
     android:background="#252525"
-    >
+    android:id="@+id/viewhaha">
 
     <EditText
         android:layout_width="wrap_content"
@@ -20,4 +20,25 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="62dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:id="@+id/confirm"
+        android:layout_below="@+id/editText"
+        android:layout_centerHorizontal="true"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mTextView"
+        android:layout_below="@+id/confirm"
+        android:layout_alignStart="@+id/editText"
+        android:layout_marginTop="47dp"
+        android:layout_alignEnd="@+id/editText"
+        android:textSize="35sp"
+        android:textColor="#657dd6" />
 </RelativeLayout>
