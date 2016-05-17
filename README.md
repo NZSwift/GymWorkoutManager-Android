@@ -1,4 +1,4 @@
-# GymWorkoutManager-Andriod V1.0
+# GymWorkoutManager-Android V1.0
 
 
 ##Introduction
