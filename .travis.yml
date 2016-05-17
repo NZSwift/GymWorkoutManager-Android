@@ -6,6 +6,3 @@ android:
     - android-23
     - extra-android-m2repository
     - extra-android-support
-
-script:  
-  - ./gradlew assembleRelease
