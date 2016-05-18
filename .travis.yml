@@ -1,14 +1,21 @@
 language: android
 android:
   components:
-    - build-tools-20.0.0
+    - tools
+    - build-tools-23.0.0
+    - android-23
     - android-L
     - sys-img-x86-android-tv-l
     - add-on
     - extra
+    - extra-android-support
+    - extra-android-m2repository
   licenses:
     - 'android-sdk-preview-license-52d11cd2'
     - 'android-sdk-license-.+'
     - 'google-gdk-license-.+'
   before_install:
+
+  script:
+    - chmod +x ./gradlew
 
