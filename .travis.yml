@@ -11,4 +11,4 @@ android:
     - 'android-sdk-license-.+'
     - 'google-gdk-license-.+'
   before_install:
-    - chmod +x gradlew
+    - chmod 777 gradlew
