@@ -22,8 +22,9 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-android {
 
+apply plugin: 'android-library'
+android {
     lintOptions {
         abortOnError false
     }
