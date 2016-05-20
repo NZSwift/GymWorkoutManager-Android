@@ -68,5 +68,8 @@
 ##ChangeLog
 * Please Checkout [here](https://github.com/NZSwift/GymWorkoutManager-Andriod/wiki)
 
-##Acknowledgements
-
+##Team
+##### Developer
+* Andy Xie [axie-devel](https://github.com/axie-devel)
+##### Designer
+* Liguo Jiao [iceman201](https://github.com/iceman201)
