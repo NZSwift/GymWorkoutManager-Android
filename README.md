@@ -1,5 +1,5 @@
 # GymWorkoutManager-Android V1.0
-[![Build Status](https://travis-ci.org/NZSwift/GymWorkoutManager-Andriod.svg?branch=master)](https://travis-ci.org/NZSwift/GymWorkoutManager-Andriod)
+[![Build Status](https://travis-ci.org/NZSwift/GymWorkoutManager-Android.svg?branch=master)](https://travis-ci.org/NZSwift/GymWorkoutManager-Android)
 
 ##Introduction
 **Gym Workout Manager** is a personal exercise recorder application. User could use it as a helper/mentor during the workout, and record all the workout information to analysis the effectiveness of their workout.
