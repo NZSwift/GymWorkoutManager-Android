@@ -69,7 +69,7 @@
 * Please Checkout [here](https://github.com/NZSwift/GymWorkoutManager-Andriod/wiki)
 
 ##Team
-##### Developer
+###Developer
 * Andy Xie [axie-devel](https://github.com/axie-devel)
-##### Designer
+###Designer
 * Liguo Jiao [iceman201](https://github.com/iceman201)
